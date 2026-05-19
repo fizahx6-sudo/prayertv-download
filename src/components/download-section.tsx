@@ -60,7 +60,7 @@ export function DownloadSection() {
             <Separator className="mb-6" />
 
             <a
-              href="/download/prayertv-v1.0.apk"
+              href="https://github.com/fizahx6-sudo/prayertv-download/releases/download/v1.0/app-release.apk"
               download
               className={cn(buttonVariants({ size: "lg" }), "w-full text-base")}
             >
